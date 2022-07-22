@@ -8,8 +8,8 @@ There is also a search functionality that showcases back cocktails as the words 
 This project also utilizes CSS variables and ContextAPI. 
 
 
-<img width=“400” alt="home" src="https://user-images.githubusercontent.com/90734558/180577046-d2966aee-dcc9-467b-a779-e8d0d485ee00.png">
-<img width=“400” alt="details" src="https://user-images.githubusercontent.com/90734558/180577111-aed461a8-9352-4daf-ba70-9ff394e7f1fa.png">
+<img width=“350px” alt="home" src="https://user-images.githubusercontent.com/90734558/180577046-d2966aee-dcc9-467b-a779-e8d0d485ee00.png">
+<img width=“350px” alt="details" src="https://user-images.githubusercontent.com/90734558/180577111-aed461a8-9352-4daf-ba70-9ff394e7f1fa.png">
 
 
 #### To run the App locally.
